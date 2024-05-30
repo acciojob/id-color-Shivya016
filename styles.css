@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#yellow{ border-style: solid;
+	background-color:yellow;
+	Border-width: 1px;
+	border-color:green; }
+#green{ border-style: solid;
+	background-color:green;
+	Border-width: 1px;
+	border-color:yellow; }
+#red{ border-style: solid;
+	background-color:red;
+	Border-width: 1px;
+	border-color:black; }
